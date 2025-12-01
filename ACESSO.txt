@@ -1,0 +1,29 @@
+=================================================================
+TICKET MARKETPLACE API - INFORMAÇÕES DE ACESSO
+=================================================================
+
+🌐 URL da API: https://8000-iad9bc6kfpdckpa1p4w0o-fc4aaf32.manusvm.computer
+
+📚 Documentação Interativa (Swagger):
+   https://8000-iad9bc6kfpdckpa1p4w0o-fc4aaf32.manusvm.computer/docs
+
+📖 Documentação Alternativa (ReDoc):
+   https://8000-iad9bc6kfpdckpa1p4w0o-fc4aaf32.manusvm.computer/redoc
+
+🔍 Endpoint de Status:
+   https://8000-iad9bc6kfpdckpa1p4w0o-fc4aaf32.manusvm.computer/health
+
+=================================================================
+PARA RODAR LOCALMENTE:
+=================================================================
+
+1. Instalar dependências:
+   pip3 install -r requirements.txt
+
+2. Iniciar servidor:
+   uvicorn app.main:app --reload
+
+3. Acessar documentação:
+   http://localhost:8000/docs
+
+=================================================================
